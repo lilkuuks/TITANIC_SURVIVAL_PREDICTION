@@ -1,4 +1,4 @@
-# Titanic Survival Prediction with Logistic Regression
+# Titanic Survival Prediction with Logistic Regression (still under works)
 
 This project uses a logistic regression model to predict the survival probability of passengers on the Titanic. By analyzing the Titanic dataset, we aim to understand which factors influenced survival and use this information to build a predictive model.
 
@@ -17,7 +17,6 @@ Ensure you have the following libraries installed:
 - `scikit-learn` - for building and evaluating the logistic regression model
 - `matplotlib` or `seaborn` (optional) - for visualizing data trends
 
-## Project Structure
 
 ```plaintext
 titanic-survival-prediction/
